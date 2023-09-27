@@ -4,10 +4,9 @@
 
 🌱 The data analytics course with Albany Beck has been based on coding in languages such as SQL and Python as well as using popular data handling tools such as Excel and Power BI. Topics being covered include:
   - Industry concepts, practices, terminology (e.g. Agile, SDLC, Git, Datalakes etc)
-  - SQL (concepts such as relational databases, normalisation. Hands on utlisation - creating/defining table     and relationships, manipulating data etc)
-  - Power BI (importing, cleaning and transforming datasets, calculations, filtering, creating dashboards,       visualisations and forecasting.
-
-
+  - SQL (concepts such as relational databases, normalisation. Creating and manipulating tables and relationships, joins, queries, etc)
+  - Power BI (importing, cleaning and transforming datasets, calculations, filtering, creating dashboards, visualisations and forecasting)
+  - Python (similar topics as per my previous bootcamp, however with the addition of some more advanced concepts such as object orientated programming and unit testing)
 
 🌱 The bootcamp with HyperionDev was based on coding in Python. Topics covered in the bootcamp included:
   - Data types and handling methods
