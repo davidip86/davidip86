@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I live in London and am looking for an entry/mid level job in the field of Data. Currently I'm part way through a full time data analytics course with a training provider, Albany Beck which follows a data science bootcamp I completed with HyperionDev in the first half of 2023. I have a bachelors degree in Mathematics & Physics and have previously worked as an adviser in the fiancial services industry.
+- 🔭 I live in London and am looking for an entry/mid level job in the field of Data. Currently I'm enrolled on a full time data analytics course with the training provider and recruitment provider Albany Beck. This follows a data science bootcamp that I completed with HyperionDev in the first half of 2023 where I obatined an overall grading of 100% across the tasks/assignments that were set. I have a bachelors degree in Mathematics & Physics and have previously worked as an adviser in the fiancial services industry.
 
 🌱 The data analytics course with Albany Beck has been based on coding in languages such as SQL and Python as well as using popular data handling tools such as Excel and Power BI. Topics being covered include:
   - Industry concepts, practices, terminology (e.g. Agile, SDLC, Git, Datalakes etc)
-  - SQL (concepts such as relational databases, normalisation. Creating and manipulating tables and relationships, joins, queries, etc)
-  - Power BI (importing, cleaning and transforming datasets, calculations, filtering, creating dashboards, visualisations and forecasting)
-  - Python (similar topics as per my previous bootcamp, however with the addition of some more advanced concepts such as object orientated programming and unit testing)
+  - SQL (concepts such as relational databases, normalisation. Hands on utlisation - creating tables, relationships, manipulating data, querying etc)
+  - Power BI (importing, cleaning and transforming datasets, calculations, filtering, creating dashboards, visualisations, forecasting and presenting findings to others)
+  - Excel (logical functions and operators, data validation, relative and absolute references, index and lookup functions, pivot tables and visualisations)
+  - Python (Similar topics as my previous bootcamp however in more depth and with the addition of using object orientated programming and concepts)
 
 🌱 The bootcamp with HyperionDev was based on coding in Python. Topics covered in the bootcamp included:
   - Data types and handling methods
