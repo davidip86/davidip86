@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I live in London and am looking for an entry/mid level job in the field of Data. Currently I'm enrolled on a full time data analytics course with the training provider and recruitment provider Albany Beck. This follows a data science bootcamp that I completed with HyperionDev in the first half of 2023 where I obatined an overall grading of 100% across the tasks/assignments that were set. I have a bachelors degree in Mathematics & Physics and have previously worked as an adviser in the fiancial services industry.
+- 🔭 I live in London and am looking for an entry/mid level job in the field of Data. Currently I'm registered as a data analyst with the recruitment provider Albany Beck where I completed an intensive course in the subject of data analytics. This comes after completing a data science bootcamp with HyperionDev in the first half of 2023 in which I obatined an overall grade of 100% across all of the set assignments. I have a bachelors degree in Mathematics & Physics and have previously worked as an adviser in the fiancial services industry which has provided me with transferrable skills such as data analysis and strong communication skills.
 
 🌱 The data analytics course with Albany Beck has been based on coding in languages such as SQL and Python as well as using popular data handling tools such as Excel and Power BI. Topics being covered include:
   - Industry concepts, practices, terminology (e.g. Agile, SDLC, Git, Datalakes etc)
@@ -24,8 +24,7 @@
   - My HyperionDev bootcamp portfolio page (shows topics covered, grades and feedback): <https://www.hyperiondev.com/portfolio/130639/>
   - Dropbox link to view my answers and code for the bootcamp tasks completed: <https://www.dropbox.com/sh/8jkdup9yr5bvag1/AAAGbyRKfEdnXDTSexDaujwVa?dl=0>
   - LinkedIn profile: <https://www.linkedin.com/in/david-pacheco-980b86173/>
-    
-  *If you are a recruiter / company that may have an opportunity for me, please connect and contact me via LinkedIn*
+
 <!--
 **davidip86/davidip86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
